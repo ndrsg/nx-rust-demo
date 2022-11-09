@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "rust-app-one": "apps/rust-app-one",
+    "rust-lib-one": "packages/rust-lib-one",
+    "rust-lib-two": "packages/rust-lib-two"
+  }
+}
